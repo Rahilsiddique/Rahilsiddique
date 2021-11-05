@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahil Siddique</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate frontend developer and an open source enthusiast</h3>
 
 - 🔭 I’m currently working on [Recipe-App](https://github.com/Rahilsiddique/Recipe-App)
 
