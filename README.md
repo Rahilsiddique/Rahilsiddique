@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN stack development and DSA in JAVA**
 
-- 📫 How to reach me **siddiquerahil19@gmial.com**
+- 📫 How to reach out to me **siddiquerahil19@gmial.com**
 
 <!-- Markdown -->
 
