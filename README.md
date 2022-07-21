@@ -1,13 +1,28 @@
 <h1 align="center">Hi 👋, I'm Rahil Siddique</h1>
-<h3 align="center">A passionate frontend developer and an open source enthusiast</h3>
+<h4 align="center">A passionate frontend developer and an open source enthusiast</h4>
 
-- 🌱 I’m currently learning **MERN stack development and DSA in JAVA**
+<div align="center">
 
-- 📫 How to reach out to me **siddiquerahil19@gmial.com**
+[![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahilsiddique&theme=radical&show_icons=true)](https://github.com/Rahilsiddique/github-readme-stats)
 
-<!-- Markdown -->
+</div>
 
+<h3 align="center">Find me on</h3>
+<p align="center"> <a 
+href="" target="_blank"><img alt="Twitter" 
+src="https://img.shields.io/badge/twitter-%2312100E.svg?&style=for-the-badge&logo=twitter&logoColor=blue" /></a> <a 
+href="https://www.linkedin.com/in/rahilsiddique/" target="_blank"><img alt="LinkedIn" 
+src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=blue" /></a> <a 
+href="https://medium.com/@siddiquerahil19"_blank"><img alt="Medium" 
+src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a><br><a 
+href="https://stackoverflow.com/users/17822183/rahil-siddique?tab=profile" target="_blank"><img alt="StackOverflow" 
+src="https://stackoverflow-badge.vercel.app/?userID=17822183" /></a> 
+</p>
+<br>
 
-[![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahilsiddique&theme=codeSTACKr&show_icons=true)](https://github.com/Rahilsiddique/github-readme-stats)
+<div align="center">
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Rahilsiddique&left_color=black&right_color=orange)
+![Visitor Count](https://profile-counter.glitch.me/{Rahilsiddique}/count.svg)
+
+</div>
+
