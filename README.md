@@ -1,9 +1,17 @@
 <h1 align="center">Hi 👋, I'm Rahil Siddique</h1>
-<h4 align="center">A passionate frontend developer and an open source enthusiast</h4>
+
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+
+</div>
 
 <div align="center">
 
-[![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahilsiddique&theme=radical&show_icons=true)](https://github.com/Rahilsiddique/github-readme-stats)
+| Stats | Stack |  
+|---|---|
+| [![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahilsiddique&theme=radical&show_icons=true)](https://github.com/Rahilsiddique/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahilsiddique&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
+
 
 </div>
 
