@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rahil Siddique</h1>
+
 
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
