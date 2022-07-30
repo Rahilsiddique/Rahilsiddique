@@ -6,14 +6,6 @@
 
 </div>
 
-<div align="center">
-
-| Stats | Stack |  
-|---|---|
-| [![Rahil's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahilsiddique&theme=radical&show_icons=true)](https://github.com/Rahilsiddique/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rahilsiddique&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) |
-
-
-</div>
 
 <h3 align="center">Find me on</h3>
 <p align="center"> <a 
