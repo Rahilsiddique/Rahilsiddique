@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rahilsiddique&theme=gruvbox_light&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Rahilsiddique&theme=gruvbox_light&show_icons=true&hide_title=true)
 <!-- <h5>Find me on</h5> -->
 <p> <a 
 href="" target="_blank"><img alt="Twitter" 
